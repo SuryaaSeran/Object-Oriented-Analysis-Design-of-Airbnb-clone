@@ -1,6 +1,7 @@
 # UML model of Bunk'O'Bed
-  Bunk'O'Bed connects people who have space to spare with those who are looking for a place to stay. The design and model is inspired from Airbnb. 
-  UML(Unified Modelling Language) is used for specifying, visualizing, constructing, and documenting the artifacts of software systems.
+  Bunk'O'Bed connects people who have space to spare with those who are looking for a place to stay.Bunk'O'Bed design model has been inspired from existing Airbnb system. The work   includes complete object oriented design analysis through UML modelling and partial implementation of the complete system. 
+  
+    UML(Unified Modelling Language) is used for specifying, visualizing, constructing, and documenting the artifacts of software systems.
 # Complete Documentation with implementation
   This documentation covers:
   1. Introduction to the system and its scope
