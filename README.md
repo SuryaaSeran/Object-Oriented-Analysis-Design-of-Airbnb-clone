@@ -11,6 +11,7 @@
   6. State Model Diagram
   7. Activity Diagram
   8. Implemenation of a particular usecase
+  
     All the UML modelling and diagrams have been done after identifying core functionalities and filtering them out according to their priorities. All the possible scenarios and models have not been considered for the designing.
 # Implemented Code
   The implementation has been done using Java with the help of Java libraries and MySQL for database.
